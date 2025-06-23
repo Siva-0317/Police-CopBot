@@ -1,0 +1,8 @@
+transformers
+google-generativeai
+datasets
+torch
+torchvision
+torchtext
+scikit-learn
+
