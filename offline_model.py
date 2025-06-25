@@ -12,7 +12,7 @@ from tkinter import scrolledtext
 import threading
 
 # Gemini API setup
-GEMINI_API_KEY = "AIzaSyAtMz4D8ZsF3cjPx6czQDF25Q93jFqxsfs"
+GEMINI_API_KEY = "api-key"
 genai.configure(api_key=GEMINI_API_KEY)
 gemini_model = genai.GenerativeModel("gemini-1.5-pro-latest")
 
