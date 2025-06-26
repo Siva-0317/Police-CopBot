@@ -10,7 +10,7 @@ Police CopBot is an AI-powered chatbot designed to assist users with police proc
 - [Running the Application](#running-the-application)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contributors](#contributors)
 
 ## Prerequisites
 
